@@ -41,5 +41,3 @@ Used to approve tenant move-outs:
 ✅ Initial Submission Action:
 - Record Lock
 - Email Alert to Admin
-
-✅ Submission Approval
